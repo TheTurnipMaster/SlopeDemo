@@ -1,0 +1,3 @@
+This is a Demo I put together to demonstrate FlxTilemapExt, a Flixel Tilemap class that supports sloped tiles and one-way "cloud" tiles.
+
+The class is largely based on earlier versions by Dirk Bunk and several other people.
